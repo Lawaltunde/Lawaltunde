@@ -78,3 +78,5 @@ AI integrations, workflow automation, and scalable intelligent features.
 
 ⚡ *I am open to opportunities in full-stack software engineering, SaaS, FinTech, and AI-driven applications, contributing to high-impact, scalable solutions.*  
 
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=count&url=https://api.countapi.xyz/hit/Lawaltunde/Lawaltunde)
+
