@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Hammed Lawal
 
-💻 **Full-Stack Software Engineer** passionate about delivering scalable, high-quality applications that solve real business problems. I bridge the gap between business needs and technical execution, working closely with teams to build impactful, maintainable solutions.  
+💻 **Full-Stack Software Engineer** passionate about delivering scalable, high-quality applications that solve real business problems. I bridge the gap between business needs and technical execution, working closely with teams to build impactful, maintainable solutions.
+
+![Profile Views](https://komarev.com/ghpvc/?username=Lawaltunde&color=blue)  
 
 ---
 
@@ -67,12 +69,18 @@ AI integrations, workflow automation, and scalable intelligent features.
 - Built and maintained full-stack solutions at IPMC, enhancing system performance by **25–40%**.  
 
 ---
+## 📊 GitHub Stats
 
+![Hammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lawaltunde&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lawaltunde&layout=compact&theme=radical)
+
+---
 ## 🌍 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/hammed-lawal-tunde/)  
 - 🌐 [Portfolio Website](https://hammed-protfolio-mjcg.onrender.com/)  
-- 📧 lawalolatundelu@gmail.com
-- X [Portfolio Website](https://x.com/DevLawal) 
+- 📧 lawalolatundelu@gmail.com  
+- 🐦 [X (Twitter)](https://x.com/DevLawal) 
 
 ---
 
