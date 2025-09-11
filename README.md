@@ -68,6 +68,10 @@ AI integrations, workflow automation, and scalable intelligent features.
 
 ---
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Lawaltunde.Lawaltunde)
+
+---
+
 ## 🌍 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/hammed-lawal-tunde/)  
 - 🌐 [Portfolio Website](https://hammed-protfolio-mjcg.onrender.com/)  
@@ -77,6 +81,4 @@ AI integrations, workflow automation, and scalable intelligent features.
 ---
 
 ⚡ *I am open to opportunities in full-stack software engineering, SaaS, FinTech, and AI-driven applications, contributing to high-impact, scalable solutions.*  
-
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=count&url=https://api.countapi.xyz/hit/Lawaltunde/Lawaltunde)
 
