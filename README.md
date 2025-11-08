@@ -74,7 +74,7 @@ AI integrations, workflow automation, and scalable intelligent features.
 
 ## 🌍 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/hammed-lawal-tunde/)  
-[//] - 🌐 [Portfolio Website](https://hammed-protfolio-mjcg.onrender.com/)
+<!-- - 🌐 [Portfolio Website](https://hammed-protfolio-mjcg.onrender.com/) -->
 - 📧 lawalolatundelu@gmail.com
 - [formerly Twitter](https://x.com/DevLawal) 
 
