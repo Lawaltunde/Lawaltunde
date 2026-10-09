@@ -5,6 +5,8 @@
 
 ## 🔥 Professional Highlights
 
+- **Amigoscode Trainee.**
+
 - **Glencore Canada.** 
 
 - **Sofvie Inc.**   
