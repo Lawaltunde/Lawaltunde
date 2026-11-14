@@ -29,3 +29,5 @@ Java, Spring Boot, Spring AI, PostgreSQL, Docker, React, AWS (EC2, S3), Kafka
 ## Links
 
 [Portfolio](https://portfolly.io/lawalhammed) · [LinkedIn](https://www.linkedin.com/in/hammed-lawal-tunde)
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Lawaltunde.Lawaltunde)
