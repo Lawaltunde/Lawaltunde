@@ -24,7 +24,7 @@ Each external integration has a fallback, such as a printable PDF referral, so a
 
 ## Stack
 
-Java, Spring Boot, Spring AI, PostgreSQL, Docker, React, AWS (EC2, S3)
+Java, Spring Boot, Spring AI, PostgreSQL, Docker, React, AWS (EC2, S3), Kafka
 
 ## Links
 
