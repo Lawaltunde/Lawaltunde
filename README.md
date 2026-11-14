@@ -1,6 +1,6 @@
 # Hammed Lawal
 
-Java backend engineer working with Spring Boot, event-driven systems and AI applications. I work alongside senior engineers on a clinic triage platform, where I build Kafka background processing, AI medication-safety checks with backup models, and consent tracking with audit trails. I also build and run my own products, and I share Java backend lessons on LinkedIn as StillYourLawal.
+Java backend engineer. I build Spring Boot services and REST APIs that stay fast and correct under real use: event-driven processing with Kafka, transactional workflows in PostgreSQL that keep payments and stock consistent, and AI features with fallbacks, cost limits and tests behind them. I secure APIs with Spring Security, cover my work with JUnit, Mockito and Testcontainers, and ship it with Docker and CI/CD to AWS. I share Java backend lessons on LinkedIn as StillYourLawal.
 
 ## Featured projects
 
