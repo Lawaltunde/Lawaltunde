@@ -4,7 +4,7 @@ Java backend engineer working with Spring Boot, event-driven systems and AI appl
 
 ## Featured projects
 
-**[ScoreNorth](https://scorenorth.org)**
+**[ScoreNorth](https://scorenorth.org)** · [how it's built](https://github.com/Lawaltunde/scorenorth-showcase)
 A CELPIP practice platform with 500+ active users. AI grades speaking and writing answers.
 To keep costs under control it has a budget guard, a per-student cap and a fallback scorer, and models can be swapped through config without code changes.
 
