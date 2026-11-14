@@ -1,6 +1,6 @@
 # Hammed Lawal
 
-Java backend engineer. I build Spring Boot services and REST APIs that stay fast and correct under real use: event-driven processing with Kafka, transactional workflows in PostgreSQL that keep payments and stock consistent, and AI features with fallbacks, cost limits and tests behind them. I secure APIs with Spring Security, cover my work with JUnit, Mockito and Testcontainers, and ship it with Docker and CI/CD to AWS. I share Java backend lessons on LinkedIn as StillYourLawal.
+Java backend engineer. I build Spring Boot services and REST APIs that stay fast and correct under real use: background processing for slow work, transactional workflows in PostgreSQL that keep payments and stock consistent, and AI features with fallbacks, cost limits and tests behind them. I secure APIs with Spring Security, cover my work with JUnit, Mockito and Testcontainers, and ship it with Docker and CI/CD to AWS. I share Java backend lessons on LinkedIn as StillYourLawal.
 
 ## Featured projects
 
@@ -24,7 +24,7 @@ Each external integration has a fallback, such as a printable PDF referral, so a
 
 ## Stack
 
-Java, Spring Boot, Spring AI, PostgreSQL, Kafka, Docker, React, AWS (EC2, S3)
+Java, Spring Boot, Spring AI, PostgreSQL, Docker, React, AWS (EC2, S3)
 
 ## Links
 
