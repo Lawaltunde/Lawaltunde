@@ -13,8 +13,8 @@ Finds the cheapest suitable hotel in any Canadian city and phones the front desk
 The model (GPT-5.4 mini) only extracts structured details. Price ranking is plain Java, parallel calls are capped, and Google Places field masks keep API costs low.
 
 **[MedSimple](https://github.com/Lawaltunde/med_simple)**
-A patient intake and triage app: patients submit symptoms as they happen, and clinics see cases ordered by urgency rather than booking time. Presented at hackathons.
-Each external integration has a fallback, such as a printable PDF referral, so a clinic with no integrations can still use it.
+A patient intake and triage app: patients report symptoms as text, voice or photo, and clinics see cases ordered by urgency rather than booking time. Presented at hackathons.
+Each clinic integration and AI feature sits behind an adapter with a rule-based fallback chosen at runtime, and the audit log is append-only, enforced by a PostgreSQL trigger.
 
 ## Awards
 
